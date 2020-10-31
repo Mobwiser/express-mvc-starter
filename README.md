@@ -17,4 +17,4 @@ A simple starter of an express.JS MVC application.
 1. ```npm start```
 
 ### How to build
-1. ```npm run build``
+1. ```npm run build```
